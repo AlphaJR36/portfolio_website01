@@ -20,4 +20,4 @@ EN - This application was made as an example and not as the final version.
 
 ## 📷 | Photos
 
-![AlphaJR.](#)
+![AlphaJR.](https://i.imgur.com/RegKAt9.png)
