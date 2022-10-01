@@ -4,19 +4,21 @@
   <br>
 </h1>
 
-<h3 align=center>AlphaJR36/portfolio_website001</h3>
+<h3 align=center>AlphaJR36/portfolio_discord01</h3>
 
 ## 🍭 | About
 
-PT - Esta aplicação foi feita como um exemplo e não como a versão final.
+PT - Esta aplicação foi feita como um exemplo e não como a versão final.<br>
 EN - This application was made as an example and not as the final version.
 
 ## 💻 | Technologies
 
-*    **HTML**
-*    **CSS**
-*    **JavaScript**
+*    **Javascript**
 
+## 🎈 | Which Is?
+
+PT - É um Website responsivo. (Portfólio)<br>
+EN - It's a responsive Website. (Portfolio)
 
 ## 📷 | Photos
 
