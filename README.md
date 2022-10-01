@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h3 align=center>AlphaJR36/portfolio_discord01</h3>
+<h3 align=center>AlphaJR36/portfolio_website01</h3>
 
 ## 🍭 | About
 
