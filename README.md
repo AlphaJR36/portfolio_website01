@@ -13,7 +13,9 @@ EN - This application was made as an example and not as the final version.
 
 ## 💻 | Technologies
 
-*    **Javascript**
+*    **HTML5**
+*    **CSS3**
+*    **JavaScript**
 
 ## 🎈 | Which Is?
 
