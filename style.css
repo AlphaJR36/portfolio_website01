@@ -29,7 +29,7 @@ nav {
 }
 
 main {
-    background: url("bg.jpg") no-repeat center center;
+    background: url("assets/img/image002.png") no-repeat center center;
     background-size: cover;
     height: 92vh;
 }
